@@ -1,4 +1,4 @@
-# Bpm-Project
+# Business processes modeling -Project
 Progettare le reti a partire da modelli pi`u astratti (EPC, BPMN), utilizzando le tecniche di trasformazione viste nel corso indicando quali tecniche
 sono state impiegate e perch´e.
 Nel presentare una workflow net, illustrarne le caratteristiche (invarianti,
